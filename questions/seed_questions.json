@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q-001",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which ocean is the largest on Earth?",
+    "answers": { "A": "Atlantic Ocean", "B": "Indian Ocean", "C": "Pacific Ocean", "D": "Arctic Ocean" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-002",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "What gas do plants absorb from the air during photosynthesis?",
+    "answers": { "A": "Oxygen", "B": "Carbon dioxide", "C": "Nitrogen", "D": "Hydrogen" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-003",
+    "category": "History",
+    "difficulty": "easy",
+    "prompt": "Who was the first president of the United States?",
+    "answers": { "A": "Thomas Jefferson", "B": "John Adams", "C": "George Washington", "D": "Benjamin Franklin" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-004",
+    "category": "Sport",
+    "difficulty": "easy",
+    "prompt": "How many players are on the field for one soccer team at the start of a match?",
+    "answers": { "A": "9", "B": "10", "C": "11", "D": "12" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-005",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "prompt": "Which animated movie features a young lion named Simba?",
+    "answers": { "A": "The Lion King", "B": "Madagascar", "C": "Finding Nemo", "D": "Tarzan" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-006",
+    "category": "Food",
+    "difficulty": "easy",
+    "prompt": "Sushi is most strongly associated with which country?",
+    "answers": { "A": "Thailand", "B": "Japan", "C": "Mexico", "D": "Greece" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-007",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "What is the capital city of France?",
+    "answers": { "A": "Paris", "B": "Lyon", "C": "Marseille", "D": "Nice" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-008",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "How many legs does a typical spider have?",
+    "answers": { "A": "6", "B": "8", "C": "10", "D": "12" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-009",
+    "category": "Music",
+    "difficulty": "easy",
+    "prompt": "Which instrument has black and white keys and is often used in classical music?",
+    "answers": { "A": "Violin", "B": "Trumpet", "C": "Piano", "D": "Drum kit" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-010",
+    "category": "General",
+    "difficulty": "easy",
+    "prompt": "How many days are there in a leap year?",
+    "answers": { "A": "364", "B": "365", "C": "366", "D": "367" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-011",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which continent is Egypt located in?",
+    "answers": { "A": "Asia", "B": "Europe", "C": "Africa", "D": "South America" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-012",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "What is H2O more commonly known as?",
+    "answers": { "A": "Salt", "B": "Water", "C": "Sugar", "D": "Oxygen" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-013",
+    "category": "History",
+    "difficulty": "easy",
+    "prompt": "The ancient pyramids of Giza were built in which modern-day country?",
+    "answers": { "A": "Egypt", "B": "Peru", "C": "India", "D": "Turkey" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-014",
+    "category": "Sport",
+    "difficulty": "easy",
+    "prompt": "In tennis, what word is used for a score of zero?",
+    "answers": { "A": "Nil", "B": "Love", "C": "Blank", "D": "Zero" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-015",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "prompt": "Which superhero is also known as Bruce Wayne?",
+    "answers": { "A": "Superman", "B": "Spider-Man", "C": "Batman", "D": "Iron Man" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-016",
+    "category": "Food",
+    "difficulty": "easy",
+    "prompt": "Which fruit is traditionally used to make guacamole?",
+    "answers": { "A": "Avocado", "B": "Mango", "C": "Apple", "D": "Pear" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-017",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which country is famous for the city of Venice and its canals?",
+    "answers": { "A": "Spain", "B": "Italy", "C": "Portugal", "D": "Croatia" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-018",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "Which planet is known as the Red Planet?",
+    "answers": { "A": "Venus", "B": "Mars", "C": "Jupiter", "D": "Mercury" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-019",
+    "category": "Music",
+    "difficulty": "easy",
+    "prompt": "How many strings does a standard guitar usually have?",
+    "answers": { "A": "4", "B": "5", "C": "6", "D": "7" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-020",
+    "category": "General",
+    "difficulty": "easy",
+    "prompt": "What is the color of an emerald?",
+    "answers": { "A": "Blue", "B": "Green", "C": "Red", "D": "Purple" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-021",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which country has the cities Sydney, Melbourne, and Perth?",
+    "answers": { "A": "Canada", "B": "Australia", "C": "South Africa", "D": "New Zealand" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-022",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "What force keeps us on the ground?",
+    "answers": { "A": "Magnetism", "B": "Friction", "C": "Gravity", "D": "Electricity" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-023",
+    "category": "History",
+    "difficulty": "easy",
+    "prompt": "Which ship famously sank on its maiden voyage in 1912?",
+    "answers": { "A": "Titanic", "B": "Mayflower", "C": "Endeavour", "D": "Queen Mary" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-024",
+    "category": "Sport",
+    "difficulty": "easy",
+    "prompt": "Which sport uses a shuttlecock?",
+    "answers": { "A": "Squash", "B": "Badminton", "C": "Table tennis", "D": "Volleyball" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-025",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "prompt": "In Toy Story, what kind of toy is Woody?",
+    "answers": { "A": "A cowboy doll", "B": "A robot", "C": "A dinosaur", "D": "A race car" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-026",
+    "category": "Food",
+    "difficulty": "easy",
+    "prompt": "Which ingredient gives traditional hummus its main base?",
+    "answers": { "A": "Lentils", "B": "Chickpeas", "C": "Potatoes", "D": "Rice" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-027",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which river runs through London?",
+    "answers": { "A": "Seine", "B": "Danube", "C": "Thames", "D": "Tiber" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-028",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "What part of the body is used for hearing?",
+    "answers": { "A": "Eyes", "B": "Ears", "C": "Nose", "D": "Lungs" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-029",
+    "category": "Music",
+    "difficulty": "easy",
+    "prompt": "Which singer is known for the album 1989?",
+    "answers": { "A": "Adele", "B": "Taylor Swift", "C": "Beyonce", "D": "Rihanna" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-030",
+    "category": "General",
+    "difficulty": "easy",
+    "prompt": "How many sides does a triangle have?",
+    "answers": { "A": "2", "B": "3", "C": "4", "D": "5" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-031",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Mount Everest lies on the border of Nepal and which region/country?",
+    "answers": { "A": "Tibet/China", "B": "Japan", "C": "Mongolia", "D": "Thailand" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-032",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "Which animal is the largest living land animal?",
+    "answers": { "A": "Hippopotamus", "B": "White rhino", "C": "African elephant", "D": "Giraffe" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-033",
+    "category": "History",
+    "difficulty": "easy",
+    "prompt": "Which wall divided a European city until 1989?",
+    "answers": { "A": "Hadrian's Wall", "B": "Berlin Wall", "C": "Great Wall", "D": "Western Wall" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-034",
+    "category": "Sport",
+    "difficulty": "easy",
+    "prompt": "In basketball, how many points is a shot from behind the arc worth?",
+    "answers": { "A": "1", "B": "2", "C": "3", "D": "4" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-035",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "prompt": "Which movie series features a school called Hogwarts?",
+    "answers": { "A": "Harry Potter", "B": "The Hunger Games", "C": "Twilight", "D": "Percy Jackson" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-036",
+    "category": "Food",
+    "difficulty": "easy",
+    "prompt": "Mozzarella is a type of what?",
+    "answers": { "A": "Bread", "B": "Cheese", "C": "Pasta", "D": "Herb" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-037",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which US state is known as the Sunshine State?",
+    "answers": { "A": "California", "B": "Florida", "C": "Texas", "D": "Arizona" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-038",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "Which star is closest to Earth?",
+    "answers": { "A": "Sirius", "B": "Polaris", "C": "The Sun", "D": "Alpha Centauri" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-039",
+    "category": "Music",
+    "difficulty": "easy",
+    "prompt": "Which band recorded the song Yellow Submarine?",
+    "answers": { "A": "The Rolling Stones", "B": "Queen", "C": "The Beatles", "D": "ABBA" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-040",
+    "category": "General",
+    "difficulty": "easy",
+    "prompt": "What is the freezing point of water in Celsius?",
+    "answers": { "A": "0°C", "B": "10°C", "C": "32°C", "D": "100°C" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-041",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which country is home to the Eiffel Tower?",
+    "answers": { "A": "France", "B": "Germany", "C": "Belgium", "D": "Switzerland" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-042",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "What do bees collect from flowers to make honey?",
+    "answers": { "A": "Nectar", "B": "Sap", "C": "Dew", "D": "Seeds" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-043",
+    "category": "History",
+    "difficulty": "easy",
+    "prompt": "Which empire built many roads across Europe, North Africa, and the Middle East?",
+    "answers": { "A": "Roman Empire", "B": "Aztec Empire", "C": "Mali Empire", "D": "Inca Empire" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-044",
+    "category": "Sport",
+    "difficulty": "easy",
+    "prompt": "Which sport is played at Wimbledon?",
+    "answers": { "A": "Cricket", "B": "Tennis", "C": "Rugby", "D": "Golf" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-045",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "prompt": "What color is Shrek?",
+    "answers": { "A": "Blue", "B": "Green", "C": "Purple", "D": "Orange" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-046",
+    "category": "Food",
+    "difficulty": "easy",
+    "prompt": "Which drink is made by brewing roasted coffee beans?",
+    "answers": { "A": "Tea", "B": "Coffee", "C": "Lemonade", "D": "Cider" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-047",
+    "category": "Geography",
+    "difficulty": "easy",
+    "prompt": "Which city is the capital of Spain?",
+    "answers": { "A": "Barcelona", "B": "Seville", "C": "Madrid", "D": "Valencia" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-048",
+    "category": "Science",
+    "difficulty": "easy",
+    "prompt": "Which organ pumps blood around the body?",
+    "answers": { "A": "Brain", "B": "Heart", "C": "Liver", "D": "Stomach" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-049",
+    "category": "Music",
+    "difficulty": "easy",
+    "prompt": "Which pop group had hits including Dancing Queen and Mamma Mia?",
+    "answers": { "A": "ABBA", "B": "Fleetwood Mac", "C": "Spice Girls", "D": "Bee Gees" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-050",
+    "category": "General",
+    "difficulty": "easy",
+    "prompt": "Which shape has four equal sides and four right angles?",
+    "answers": { "A": "Triangle", "B": "Circle", "C": "Square", "D": "Pentagon" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-051",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which country has the longest coastline in the world?",
+    "answers": { "A": "Australia", "B": "Canada", "C": "Russia", "D": "Indonesia" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-052",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "What is the chemical symbol for gold?",
+    "answers": { "A": "Ag", "B": "Au", "C": "Gd", "D": "Go" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-053",
+    "category": "History",
+    "difficulty": "medium",
+    "prompt": "The Magna Carta was first agreed in which century?",
+    "answers": { "A": "11th century", "B": "12th century", "C": "13th century", "D": "14th century" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-054",
+    "category": "Sport",
+    "difficulty": "medium",
+    "prompt": "In Formula 1, what color flag signals drivers to stop the race immediately?",
+    "answers": { "A": "Yellow", "B": "Blue", "C": "Red", "D": "Green" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-055",
+    "category": "Entertainment",
+    "difficulty": "medium",
+    "prompt": "Which director made the films Jaws, E.T., and Jurassic Park?",
+    "answers": { "A": "James Cameron", "B": "Steven Spielberg", "C": "George Lucas", "D": "Ridley Scott" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-056",
+    "category": "Food",
+    "difficulty": "medium",
+    "prompt": "Which spice gives many curries their yellow color?",
+    "answers": { "A": "Paprika", "B": "Cumin", "C": "Turmeric", "D": "Cinnamon" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-057",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which African country has Addis Ababa as its capital?",
+    "answers": { "A": "Ethiopia", "B": "Kenya", "C": "Ghana", "D": "Morocco" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-058",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "Which part of the cell contains most of its genetic material?",
+    "answers": { "A": "Cell wall", "B": "Nucleus", "C": "Mitochondrion", "D": "Ribosome" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-059",
+    "category": "Music",
+    "difficulty": "medium",
+    "prompt": "Which composer wrote The Four Seasons?",
+    "answers": { "A": "Mozart", "B": "Bach", "C": "Vivaldi", "D": "Beethoven" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-060",
+    "category": "General",
+    "difficulty": "medium",
+    "prompt": "What is the smallest prime number?",
+    "answers": { "A": "0", "B": "1", "C": "2", "D": "3" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-061",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which sea lies between Europe and Africa?",
+    "answers": { "A": "Caribbean Sea", "B": "Mediterranean Sea", "C": "Baltic Sea", "D": "Caspian Sea" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-062",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "Which scientist proposed the three laws of motion?",
+    "answers": { "A": "Isaac Newton", "B": "Albert Einstein", "C": "Marie Curie", "D": "Charles Darwin" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-063",
+    "category": "History",
+    "difficulty": "medium",
+    "prompt": "Which civilization developed the first known Olympic Games?",
+    "answers": { "A": "Ancient Romans", "B": "Ancient Greeks", "C": "Ancient Egyptians", "D": "Phoenicians" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-064",
+    "category": "Sport",
+    "difficulty": "medium",
+    "prompt": "In cricket, what is the maximum number of runs normally scored by hitting the ball over the boundary without bouncing?",
+    "answers": { "A": "4", "B": "5", "C": "6", "D": "8" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-065",
+    "category": "Entertainment",
+    "difficulty": "medium",
+    "prompt": "Which actor played Jack Sparrow in the Pirates of the Caribbean films?",
+    "answers": { "A": "Johnny Depp", "B": "Orlando Bloom", "C": "Hugh Jackman", "D": "Keanu Reeves" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-066",
+    "category": "Food",
+    "difficulty": "medium",
+    "prompt": "Which Italian dessert is traditionally made with coffee-soaked ladyfingers and mascarpone?",
+    "answers": { "A": "Panna cotta", "B": "Tiramisu", "C": "Cannoli", "D": "Gelato" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-067",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which country is both in Europe and Asia and has Ankara as its capital?",
+    "answers": { "A": "Turkey", "B": "Georgia", "C": "Armenia", "D": "Cyprus" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-068",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "What is the hardest natural substance commonly found on Earth?",
+    "answers": { "A": "Quartz", "B": "Diamond", "C": "Granite", "D": "Steel" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-069",
+    "category": "Music",
+    "difficulty": "medium",
+    "prompt": "Which musical term means to gradually get louder?",
+    "answers": { "A": "Staccato", "B": "Crescendo", "C": "Legato", "D": "Adagio" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-070",
+    "category": "General",
+    "difficulty": "medium",
+    "prompt": "Which language has the most native speakers worldwide?",
+    "answers": { "A": "English", "B": "Spanish", "C": "Mandarin Chinese", "D": "Hindi" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-071",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which capital city is located on the River Seine?",
+    "answers": { "A": "Paris", "B": "Rome", "C": "Vienna", "D": "Prague" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-072",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "Which planet has the most prominent ring system?",
+    "answers": { "A": "Mars", "B": "Saturn", "C": "Venus", "D": "Neptune" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-073",
+    "category": "History",
+    "difficulty": "medium",
+    "prompt": "Who was the British prime minister for much of World War II?",
+    "answers": { "A": "Winston Churchill", "B": "Neville Chamberlain", "C": "Clement Attlee", "D": "Harold Wilson" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-074",
+    "category": "Sport",
+    "difficulty": "medium",
+    "prompt": "Which country hosted the 2016 Summer Olympics?",
+    "answers": { "A": "China", "B": "Brazil", "C": "Japan", "D": "United Kingdom" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-075",
+    "category": "Entertainment",
+    "difficulty": "medium",
+    "prompt": "Which fictional detective lives at 221B Baker Street?",
+    "answers": { "A": "Hercule Poirot", "B": "Miss Marple", "C": "Sherlock Holmes", "D": "Philip Marlowe" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-076",
+    "category": "Food",
+    "difficulty": "medium",
+    "prompt": "Which country is the origin of paella?",
+    "answers": { "A": "Portugal", "B": "Spain", "C": "France", "D": "Italy" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-077",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which US state is the Grand Canyon in?",
+    "answers": { "A": "Nevada", "B": "Utah", "C": "Arizona", "D": "Colorado" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-078",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "What is measured using the Richter scale?",
+    "answers": { "A": "Wind speed", "B": "Earthquake magnitude", "C": "Temperature", "D": "Radiation" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-079",
+    "category": "Music",
+    "difficulty": "medium",
+    "prompt": "Which artist released the album Purple Rain?",
+    "answers": { "A": "Prince", "B": "Michael Jackson", "C": "David Bowie", "D": "Stevie Wonder" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-080",
+    "category": "General",
+    "difficulty": "medium",
+    "prompt": "What is the square root of 144?",
+    "answers": { "A": "10", "B": "11", "C": "12", "D": "14" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-081",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which country has Reykjavik as its capital?",
+    "answers": { "A": "Iceland", "B": "Finland", "C": "Norway", "D": "Denmark" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-082",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "What type of animal is a Komodo dragon?",
+    "answers": { "A": "Snake", "B": "Lizard", "C": "Crocodile", "D": "Turtle" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-083",
+    "category": "History",
+    "difficulty": "medium",
+    "prompt": "Which explorer is commonly associated with reaching the Americas in 1492?",
+    "answers": { "A": "Marco Polo", "B": "Vasco da Gama", "C": "Christopher Columbus", "D": "Ferdinand Magellan" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-084",
+    "category": "Sport",
+    "difficulty": "medium",
+    "prompt": "In golf, what is one stroke under par called?",
+    "answers": { "A": "Birdie", "B": "Eagle", "C": "Bogey", "D": "Albatross" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-085",
+    "category": "Entertainment",
+    "difficulty": "medium",
+    "prompt": "Which TV show is set in the fictional continent of Westeros?",
+    "answers": { "A": "The Witcher", "B": "Game of Thrones", "C": "The Mandalorian", "D": "Lost" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-086",
+    "category": "Food",
+    "difficulty": "medium",
+    "prompt": "Which nut is used to make traditional marzipan?",
+    "answers": { "A": "Walnut", "B": "Almond", "C": "Cashew", "D": "Hazelnut" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-087",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which river is the longest in South America?",
+    "answers": { "A": "Amazon", "B": "Parana", "C": "Orinoco", "D": "Sao Francisco" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-088",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "What is the main gas in Earth's atmosphere?",
+    "answers": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon dioxide", "D": "Argon" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-089",
+    "category": "Music",
+    "difficulty": "medium",
+    "prompt": "Which city is strongly associated with the birth of jazz?",
+    "answers": { "A": "Chicago", "B": "New Orleans", "C": "Detroit", "D": "Nashville" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-090",
+    "category": "General",
+    "difficulty": "medium",
+    "prompt": "Which Roman numeral represents 50?",
+    "answers": { "A": "C", "B": "D", "C": "L", "D": "X" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-091",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which desert covers much of northern Africa?",
+    "answers": { "A": "Gobi", "B": "Sahara", "C": "Kalahari", "D": "Atacama" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-092",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "Which blood cells help fight infection?",
+    "answers": { "A": "Red blood cells", "B": "White blood cells", "C": "Platelets", "D": "Plasma" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-093",
+    "category": "History",
+    "difficulty": "medium",
+    "prompt": "Which country gifted the Statue of Liberty to the United States?",
+    "answers": { "A": "France", "B": "Spain", "C": "Italy", "D": "Germany" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-094",
+    "category": "Sport",
+    "difficulty": "medium",
+    "prompt": "Which sport has positions called pitcher and catcher?",
+    "answers": { "A": "Baseball", "B": "Basketball", "C": "Hockey", "D": "Rugby" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-095",
+    "category": "Entertainment",
+    "difficulty": "medium",
+    "prompt": "Which film features the quote 'I'll be back'?",
+    "answers": { "A": "Predator", "B": "The Terminator", "C": "Die Hard", "D": "RoboCop" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-096",
+    "category": "Food",
+    "difficulty": "medium",
+    "prompt": "Which grain is used to make traditional risotto?",
+    "answers": { "A": "Basmati rice", "B": "Arborio rice", "C": "Barley", "D": "Quinoa" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-097",
+    "category": "Geography",
+    "difficulty": "medium",
+    "prompt": "Which country has the city of Kyoto?",
+    "answers": { "A": "China", "B": "Japan", "C": "South Korea", "D": "Vietnam" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-098",
+    "category": "Science",
+    "difficulty": "medium",
+    "prompt": "Which process changes a liquid into a gas?",
+    "answers": { "A": "Condensation", "B": "Evaporation", "C": "Freezing", "D": "Deposition" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-099",
+    "category": "Music",
+    "difficulty": "medium",
+    "prompt": "Which singer was known as the Queen of Soul?",
+    "answers": { "A": "Aretha Franklin", "B": "Diana Ross", "C": "Whitney Houston", "D": "Tina Turner" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-100",
+    "category": "General",
+    "difficulty": "medium",
+    "prompt": "Which chess piece can move in an L-shape?",
+    "answers": { "A": "Bishop", "B": "Knight", "C": "Rook", "D": "Queen" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-101",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which country has the city of Samarkand?",
+    "answers": { "A": "Uzbekistan", "B": "Kazakhstan", "C": "Iran", "D": "Azerbaijan" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-102",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "What is the SI unit of electric resistance?",
+    "answers": { "A": "Volt", "B": "Ampere", "C": "Ohm", "D": "Watt" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-103",
+    "category": "History",
+    "difficulty": "hard",
+    "prompt": "The Treaty of Westphalia was signed in which year?",
+    "answers": { "A": "1517", "B": "1648", "C": "1776", "D": "1815" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-104",
+    "category": "Sport",
+    "difficulty": "hard",
+    "prompt": "Which country won the first FIFA World Cup in 1930?",
+    "answers": { "A": "Brazil", "B": "Argentina", "C": "Uruguay", "D": "Italy" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-105",
+    "category": "Entertainment",
+    "difficulty": "hard",
+    "prompt": "Which film won the first Academy Award for Best Picture?",
+    "answers": { "A": "Wings", "B": "Sunrise", "C": "All Quiet on the Western Front", "D": "The Broadway Melody" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-106",
+    "category": "Food",
+    "difficulty": "hard",
+    "prompt": "Which French term refers to a bundle of herbs tied together for cooking?",
+    "answers": { "A": "Mirepoix", "B": "Bouquet garni", "C": "Roux", "D": "Confit" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-107",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which is the only country with coastlines on both the Caspian Sea and the Persian Gulf?",
+    "answers": { "A": "Iraq", "B": "Iran", "C": "Turkmenistan", "D": "Azerbaijan" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-108",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which particle has a negative electric charge?",
+    "answers": { "A": "Proton", "B": "Neutron", "C": "Electron", "D": "Photon" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-109",
+    "category": "Music",
+    "difficulty": "hard",
+    "prompt": "Which jazz musician was nicknamed Bird?",
+    "answers": { "A": "Miles Davis", "B": "Charlie Parker", "C": "John Coltrane", "D": "Duke Ellington" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-110",
+    "category": "General",
+    "difficulty": "hard",
+    "prompt": "Which philosopher wrote Critique of Pure Reason?",
+    "answers": { "A": "Immanuel Kant", "B": "David Hume", "C": "John Locke", "D": "Rene Descartes" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-111",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which island group includes Mahe, Praslin, and La Digue?",
+    "answers": { "A": "Maldives", "B": "Seychelles", "C": "Mauritius", "D": "Comoros" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-112",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "What is the atomic number of carbon?",
+    "answers": { "A": "4", "B": "6", "C": "8", "D": "12" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-113",
+    "category": "History",
+    "difficulty": "hard",
+    "prompt": "Which ruler founded the Mughal Empire in 1526?",
+    "answers": { "A": "Akbar", "B": "Babur", "C": "Shah Jahan", "D": "Aurangzeb" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-114",
+    "category": "Sport",
+    "difficulty": "hard",
+    "prompt": "In snooker, how many points is the black ball worth?",
+    "answers": { "A": "5", "B": "6", "C": "7", "D": "8" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-115",
+    "category": "Entertainment",
+    "difficulty": "hard",
+    "prompt": "Which Studio Ghibli film features a bathhouse for spirits?",
+    "answers": { "A": "My Neighbor Totoro", "B": "Princess Mononoke", "C": "Spirited Away", "D": "Howl's Moving Castle" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-116",
+    "category": "Food",
+    "difficulty": "hard",
+    "prompt": "What is the main ingredient in the Korean dish kimchi?",
+    "answers": { "A": "Fermented cabbage", "B": "Rice noodles", "C": "Tofu", "D": "Seaweed" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-117",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which country contains the ancient city of Petra?",
+    "answers": { "A": "Jordan", "B": "Lebanon", "C": "Syria", "D": "Oman" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-118",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which layer of Earth's atmosphere contains the ozone layer?",
+    "answers": { "A": "Troposphere", "B": "Stratosphere", "C": "Mesosphere", "D": "Thermosphere" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-119",
+    "category": "Music",
+    "difficulty": "hard",
+    "prompt": "Which opera features the aria Nessun dorma?",
+    "answers": { "A": "La Traviata", "B": "Tosca", "C": "Turandot", "D": "Carmen" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-120",
+    "category": "General",
+    "difficulty": "hard",
+    "prompt": "Which novel begins with the line 'Call me Ishmael'?",
+    "answers": { "A": "Moby-Dick", "B": "The Old Man and the Sea", "C": "Treasure Island", "D": "Heart of Darkness" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-121",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which country is home to Lake Baikal?",
+    "answers": { "A": "Mongolia", "B": "Russia", "C": "Kazakhstan", "D": "China" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-122",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which vitamin is produced in skin exposed to sunlight?",
+    "answers": { "A": "Vitamin A", "B": "Vitamin B12", "C": "Vitamin C", "D": "Vitamin D" },
+    "correctAnswer": "D"
+  },
+  {
+    "id": "q-123",
+    "category": "History",
+    "difficulty": "hard",
+    "prompt": "Which empire was ruled by Suleiman the Magnificent?",
+    "answers": { "A": "Ottoman Empire", "B": "Persian Empire", "C": "Byzantine Empire", "D": "Austro-Hungarian Empire" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-124",
+    "category": "Sport",
+    "difficulty": "hard",
+    "prompt": "Which tennis player completed the Golden Slam in 1988?",
+    "answers": { "A": "Martina Navratilova", "B": "Steffi Graf", "C": "Serena Williams", "D": "Chris Evert" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-125",
+    "category": "Entertainment",
+    "difficulty": "hard",
+    "prompt": "Which actor played Vito Corleone in The Godfather?",
+    "answers": { "A": "Al Pacino", "B": "Robert De Niro", "C": "Marlon Brando", "D": "James Caan" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-126",
+    "category": "Food",
+    "difficulty": "hard",
+    "prompt": "Which sauce is traditionally made from egg yolk, butter, and lemon juice?",
+    "answers": { "A": "Hollandaise", "B": "Bechamel", "C": "Veloute", "D": "Espagnole" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-127",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which capital city sits near the confluence of the Blue Nile and White Nile?",
+    "answers": { "A": "Cairo", "B": "Khartoum", "C": "Addis Ababa", "D": "Juba" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-128",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which law states that the pressure of a gas decreases as its volume increases at constant temperature?",
+    "answers": { "A": "Boyle's law", "B": "Ohm's law", "C": "Hooke's law", "D": "Faraday's law" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-129",
+    "category": "Music",
+    "difficulty": "hard",
+    "prompt": "Which instrument does Yo-Yo Ma primarily play?",
+    "answers": { "A": "Violin", "B": "Cello", "C": "Piano", "D": "Clarinet" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-130",
+    "category": "General",
+    "difficulty": "hard",
+    "prompt": "Which mathematical constant is approximately 2.71828?",
+    "answers": { "A": "Pi", "B": "Euler's number e", "C": "The golden ratio", "D": "Avogadro's number" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-131",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which mountain range separates France and Spain?",
+    "answers": { "A": "Alps", "B": "Pyrenees", "C": "Carpathians", "D": "Apennines" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-132",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which element has the chemical symbol W?",
+    "answers": { "A": "Tungsten", "B": "Tin", "C": "Tantalum", "D": "Titanium" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-133",
+    "category": "History",
+    "difficulty": "hard",
+    "prompt": "Which battle in 1815 marked Napoleon's final defeat?",
+    "answers": { "A": "Austerlitz", "B": "Waterloo", "C": "Trafalgar", "D": "Borodino" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-134",
+    "category": "Sport",
+    "difficulty": "hard",
+    "prompt": "Which country has won the most Rugby World Cups as of 2026?",
+    "answers": { "A": "New Zealand", "B": "Australia", "C": "South Africa", "D": "England" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-135",
+    "category": "Entertainment",
+    "difficulty": "hard",
+    "prompt": "Which filmmaker directed Seven Samurai?",
+    "answers": { "A": "Akira Kurosawa", "B": "Yasujiro Ozu", "C": "Hayao Miyazaki", "D": "Satyajit Ray" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-136",
+    "category": "Food",
+    "difficulty": "hard",
+    "prompt": "Which grain is traditionally used in tabbouleh?",
+    "answers": { "A": "Bulgur wheat", "B": "Couscous", "C": "Farro", "D": "Millet" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-137",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which country has Sucre as its constitutional capital?",
+    "answers": { "A": "Peru", "B": "Bolivia", "C": "Ecuador", "D": "Paraguay" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-138",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which branch of biology studies fungi?",
+    "answers": { "A": "Mycology", "B": "Entomology", "C": "Ornithology", "D": "Herpetology" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-139",
+    "category": "Music",
+    "difficulty": "hard",
+    "prompt": "Which composer became deaf later in life but continued composing?",
+    "answers": { "A": "Beethoven", "B": "Tchaikovsky", "C": "Debussy", "D": "Handel" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-140",
+    "category": "General",
+    "difficulty": "hard",
+    "prompt": "Which ancient library was famously located in Egypt?",
+    "answers": { "A": "Library of Pergamum", "B": "Library of Alexandria", "C": "Library of Ashurbanipal", "D": "Library of Celsus" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-141",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which strait separates mainland Asia from North America?",
+    "answers": { "A": "Bering Strait", "B": "Gibraltar Strait", "C": "Malacca Strait", "D": "Dover Strait" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-142",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which scientist is credited with developing the periodic table?",
+    "answers": { "A": "Dmitri Mendeleev", "B": "Niels Bohr", "C": "James Clerk Maxwell", "D": "Rosalind Franklin" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-143",
+    "category": "History",
+    "difficulty": "hard",
+    "prompt": "Which city was known as Constantinople before becoming Istanbul?",
+    "answers": { "A": "Ankara", "B": "Istanbul", "C": "Izmir", "D": "Bursa" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-144",
+    "category": "Sport",
+    "difficulty": "hard",
+    "prompt": "Which athlete was nicknamed The Lightning Bolt?",
+    "answers": { "A": "Michael Johnson", "B": "Carl Lewis", "C": "Usain Bolt", "D": "Mo Farah" },
+    "correctAnswer": "C"
+  },
+  {
+    "id": "q-145",
+    "category": "Entertainment",
+    "difficulty": "hard",
+    "prompt": "Which novel by Frank Herbert is set on the desert planet Arrakis?",
+    "answers": { "A": "Foundation", "B": "Dune", "C": "Hyperion", "D": "Neuromancer" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-146",
+    "category": "Food",
+    "difficulty": "hard",
+    "prompt": "Which country is strongly associated with the fermented tea leaves dish lahpet?",
+    "answers": { "A": "Myanmar", "B": "Laos", "C": "Cambodia", "D": "Nepal" },
+    "correctAnswer": "A"
+  },
+  {
+    "id": "q-147",
+    "category": "Geography",
+    "difficulty": "hard",
+    "prompt": "Which river flows through Baghdad?",
+    "answers": { "A": "Nile", "B": "Tigris", "C": "Jordan", "D": "Indus" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-148",
+    "category": "Science",
+    "difficulty": "hard",
+    "prompt": "Which moon is the largest in the Solar System?",
+    "answers": { "A": "Titan", "B": "Ganymede", "C": "Callisto", "D": "Europa" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-149",
+    "category": "Music",
+    "difficulty": "hard",
+    "prompt": "Which rock band released The Dark Side of the Moon?",
+    "answers": { "A": "Led Zeppelin", "B": "Pink Floyd", "C": "The Who", "D": "Genesis" },
+    "correctAnswer": "B"
+  },
+  {
+    "id": "q-150",
+    "category": "General",
+    "difficulty": "hard",
+    "prompt": "Which unit is used to measure the intensity of sound?",
+    "answers": { "A": "Pascal", "B": "Newton", "C": "Decibel", "D": "Joule" },
+    "correctAnswer": "C"
+  }
+]
